@@ -7,3 +7,10 @@
 
 * Para a prática de testes automatizados, foi criado um programa simples com algumas operações aritméticas para ver como era
 o funcionamento da ferramenta fornecida pela plataforma.
+
+
+
+* Testes:
+
+
+![captura-testes-automatizados](https://user-images.githubusercontent.com/76496863/143386074-d1db580b-29fc-4312-bd43-9ec7ddfddb02.PNG)
