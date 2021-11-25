@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeira aplicação console", "Primeira aplicação console\Primeira aplicação console.csproj", "{149E2677-9E72-4B4E-877D-3A127FA7069D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primeira aplicação console", "Primeira aplicação console\Primeira aplicação console.csproj", "{149E2677-9E72-4B4E-877D-3A127FA7069D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contas", "Contas\Contas.csproj", "{ADADF6A6-2AC8-4209-A97F-9B54FB6CDBF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeira aplicação consoleTests", "Primeira aplicação consoleTests\Primeira aplicação consoleTests.csproj", "{80E4F047-8D09-4C1C-A7CD-45F8FB156995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{149E2677-9E72-4B4E-877D-3A127FA7069D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{149E2677-9E72-4B4E-877D-3A127FA7069D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{149E2677-9E72-4B4E-877D-3A127FA7069D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADADF6A6-2AC8-4209-A97F-9B54FB6CDBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADADF6A6-2AC8-4209-A97F-9B54FB6CDBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADADF6A6-2AC8-4209-A97F-9B54FB6CDBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADADF6A6-2AC8-4209-A97F-9B54FB6CDBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E4F047-8D09-4C1C-A7CD-45F8FB156995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E4F047-8D09-4C1C-A7CD-45F8FB156995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E4F047-8D09-4C1C-A7CD-45F8FB156995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E4F047-8D09-4C1C-A7CD-45F8FB156995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
